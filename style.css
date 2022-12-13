@@ -270,7 +270,7 @@ nav a:hover, nav a:focus,
     }
 }
 
-@media (min-width:1440px){
+@media (min-width:1440px, min-height:950px){
     body{
         position:absolute;
         top: calc((100vh - 950px)/2);
