@@ -20,24 +20,35 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### The challenge
 - Challenge included examples of 1440px and 375px width screens
+- I did not use Pro account features (no Figma, most of design margins/font-size was my best guess)
 
 Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot of my work
+### Screenshot 
+## My work (1440px)
 
 ![](./Screenshot.jpg)
 
-### Original challenge template I copied
+## Original challenge template I copied (1440px)
 
 ![](./design/desktop-design.jpg)
+
+## My work (375px)
+
+![](./Screenshot1.jpg)
+![](./Screenshot2.jpg)
+
+## Original challenge template I copied (375px)
+
+![](./design/mobile-design.jpg)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://augustej.github.io/FEnd-Mentor-News-Home/)
+- Live Site URL: [(https://augustej.github.io/FEnd-Mentor-News-Home/)]
 
 ## My process
 
