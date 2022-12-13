@@ -39,6 +39,7 @@ Users should be able to:
 ## My work (375px)
 
 ![](./Screenshot1.jpg)
+- 
 ![](./Screenshot2.jpg)
 
 ## Original challenge template I copied (375px)
